@@ -8,6 +8,7 @@ namespace C200922GH_2
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Juhász Zoltán");
+            Console.WriteLine("fsdfgdf");
             Console.ReadKey(true);
         }
     }
