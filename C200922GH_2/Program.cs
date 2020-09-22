@@ -16,6 +16,7 @@ namespace C200922GH_2
                     rnd.Next(Console.WindowWidth),
                     rnd.Next(Console.WindowHeight));
                 Console.Write("*");
+                //comment
             }
             Console.ReadKey(true);
         }
